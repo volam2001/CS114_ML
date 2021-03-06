@@ -34,6 +34,6 @@
 ### **overwrite**
 * [Problem](#)
 * [Dataset](#)
-* [Menthod](#)
+* [Method](#)
 * [Predict & evaluate](#)
 * [References](#)
