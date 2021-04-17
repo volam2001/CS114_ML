@@ -13,8 +13,9 @@
 | STT | Họ tên | MSSV | Thành viên | E-mail | Github | Task chính  |
 | :---: | --- | --- | --- | --- | --- | --- |
 | 1 | Trần Phan Nhật Kha | 19521655 | Nhóm trưởng | 19521655@gm.uit.edu.vn | [trankha1655](https://github.com/trankha1655) |
-| 2 | Trần Gia Nghĩa | 19521901  | Thành viên | 19521901@gm.uit.edu.vn | [SoulOfWindTGN](https://github.com/SoulOfWindTGN) |
-| 3 |  | | Thành viên | @gm.uit.edu.vn | [name](url) |
+| 2 | Trần Gia Nghĩa | 19521901 | Thành viên | 19521901@gm.uit.edu.vn | [SoulOfWindTGN](https://github.com/SoulOfWindTGN) |
+| 3 | Võ Tá Lâm | 19521901 | Thành viên | 19521744@gm.uit.edu.vn | [name](url) |
+
 
 
 ## **ĐỒ ÁN CUỐI KÌ**
