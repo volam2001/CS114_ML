@@ -16,6 +16,22 @@
 | 2 | Trần Gia Nghĩa | 19521901 | Thành viên | 19521901@gm.uit.edu.vn | [SoulOfWindTGN](https://github.com/SoulOfWindTGN) |
 | 3 | Võ Tá Lâm | 19521901 | Thành viên | 19521744@gm.uit.edu.vn | [name](url) |
 
+## [Assignment](https://github.com/trankha1655/CS114_ML/tree/main/Assignments) 
+
+
+-  [x] [**Week 1 - Warmup**](https://github.com/trankha1655/CS114_ML/tree/main/Assignments/Tu%E1%BA%A7n%201%20-%20warm%20up) : :heavy_check_mark: 8/8 finish
+ 
+- [x] [**Week 1.2 - tăng tốc từ từ**](https://github.com/trankha1655/CS114_ML/tree/main/Assignments/Tu%E1%BA%A7n%201.2%20-%20t%C4%83ng%20t%E1%BB%91c%20t%E1%BB%AB%20t%E1%BB%AB) : :heavy_check_mark: 11/11 finish
+
+  
+- [x] [**Week 2.1 - Chú ý thời gian chạy chương trình**](https://github.com/trankha1655/CS114_ML/tree/main/Assignments/Tu%E1%BA%A7n%202.1%20-%20Ch%C3%BA%20%C3%BD%20th%E1%BB%9Di%20gian%20ch%E1%BA%A1y%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh) : :heavy_check_mark: 7/7 finish
+  
+- [x] [**Week 3.1 - Ôn tiếp cấu trúc dữ liệu**](https://github.com/trankha1655/CS114_ML/tree/main/Assignments/Tu%E1%BA%A7n%203.1%20-%20%C3%94n%20ti%E1%BA%BFp%20c%E1%BA%A5u%20tr%C3%BAc%20d%E1%BB%AF%20li%E1%BB%87u) : :heavy_check_mark: 7/7 finish
+
+
+- [ ] **Week 4**
+
+## [NoteBook Research]() 
 
 
 ## **ĐỒ ÁN CUỐI KÌ**
