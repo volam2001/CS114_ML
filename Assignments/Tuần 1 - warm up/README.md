@@ -11,7 +11,7 @@
 |6 | [KFC](https://github.com/trankha1655/CS114_ML/blob/main/Assignments/Tu%E1%BA%A7n%201%20-%20warm%20up/KFC.py)| :white_check_mark:
 |7 | [Gà Chó](https://github.com/trankha1655/CS114_ML/blob/main/Assignments/Tu%E1%BA%A7n%201%20-%20warm%20up/Ga_Cho.py) | :white_check_mark:
 |8 | [Task](https://github.com/trankha1655/CS114_ML/blob/main/Assignments/Tu%E1%BA%A7n%201%20-%20warm%20up/Task.py) | :white_check_mark:
-## Problem 1: [Tổng số ước]()
+## Problem 1: [Tổng số ước](https://github.com/trankha1655/CS114_ML/blob/main/Assignments/Tu%E1%BA%A7n%201%20-%20warm%20up/Tong_Uoc_So.py)
 **Time limit per test: 1 second**
 
 **Memory limit per test: 50 megabytes**
@@ -29,7 +29,7 @@
 | 8 | 7 |
 | 27 | 13 |
 
-## Problem 2: [Fibo]()
+## Problem 2: [Fibo](https://github.com/trankha1655/CS114_ML/blob/main/Assignments/Tu%E1%BA%A7n%201%20-%20warm%20up/fibo.py)
 **Time limit per test: ... second**
 
 **Memory limit per test: ... megabytes**
@@ -42,7 +42,7 @@ Nhập vào số nguyên **x** sao cho **1 ≤ x ≤ 30**. Nếu **x** không th
 | -6 | 	So -6 khong nam trong khoang [1,30].|
 | 6 | 8 |
 
-## Problem 3: [Tam Giac]()
+## Problem 3: [Tam Giac](https://github.com/trankha1655/CS114_ML/blob/main/Assignments/Tu%E1%BA%A7n%201%20-%20warm%20up/Tam_giac.py)
 **Time limit per test: ... second**
 
 **Memory limit per test: ... megabytes**
@@ -66,7 +66,7 @@ Dòng thứ ba là độ dài cạnh 3.
 | 3 <br/> 4 <br/> 5 | Tam giac vuong, dien tich = 6 |
 | 1 <br/> 2 <br/> 3| Khong phai tam giac |
 
-## Problem 4: [Áp suất]()
+## Problem 4: [Áp suất](https://github.com/trankha1655/CS114_ML/blob/main/Assignments/Tu%E1%BA%A7n%201%20-%20warm%20up/Ap_suat.py)
 **Time limit per test: ... second**
 
 **Memory limit per test: ... megabytes**
@@ -91,7 +91,7 @@ Một con số ương ứng theo đơn vị kg/cm2
 | 15 | 	1.0546|
 | 2018 | 	141.879|
 
-## Problem 5: [Đường sắt]()
+## Problem 5: [Đường sắt](https://github.com/trankha1655/CS114_ML/blob/main/Assignments/Tu%E1%BA%A7n%201%20-%20warm%20up/Duong_sat.py)
 **Time limit per test: ... second**
 
 **Memory limit per test: ... megabytes**
@@ -117,7 +117,7 @@ Vào từ thiết bị nhập chuẩn gồm một dòng chứa 2 số nguyên **
 |:---:|:---:|
 | 5  8 | 	2|
 
-## Problem 6: [KFC]()
+## Problem 6: [KFC](https://github.com/trankha1655/CS114_ML/blob/main/Assignments/Tu%E1%BA%A7n%201%20-%20warm%20up/KFC.py)
 **Time limit per test: ... second**
 
 **Memory limit per test: ... megabytes**
@@ -134,6 +134,38 @@ Hai con số - nhiệt độ theo thang **C** và thang **K**
 | Input | Output |
 |658.4  |	 348 621.15|
 | 472.6 | 244.778 517.928|
+
+
+
+## Problem 7: [Gà Chó](https://github.com/trankha1655/CS114_ML/blob/main/Assignments/Tu%E1%BA%A7n%201%20-%20warm%20up/Ga_Cho.py)
+**Time limit per test: ... second**
+
+**Memory limit per test: ... megabytes**
+
+Vừa gà vừa chó
+
+Bó lại cho tròn
+
+**xxx** con
+
+**yy** chân chẵn
+
+Hãy xác định số con gà và số con chó thỏa mãn yêu cầu.
+
+**INPUT**:  
+Vào từ thiết bị nhập chuẩn gồm 1 dòng ghi 2 số nguyên **xxx** và **yy** (2≤ **xxx**, **yy** ≤ 109)
+
+**OUTPUT**: 
+Đưa ra thiết bị xuất chuẩn một dòng 2 số nguyên số gà và số chó tìm được.
+
+Dữ liệu luôn bảo đảm có kết quả.
+
+
+| Input | Output |
+|36 100|	 24 14|
+
+
+
 
 
 
