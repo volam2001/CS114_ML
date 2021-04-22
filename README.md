@@ -31,7 +31,9 @@
 
 - [ ] **Week 4**
 
-## [NoteBook Research]() 
+## [NoteBook Research](https://github.com/trankha1655/CS114_ML/tree/main/Colab%20Research)
+- [REGCONIZING HAND-WRITTEN DIGITS](https://github.com/trankha1655/CS114_ML/blob/main/Colab%20Research/Bai_Tap_Colab_So_1.ipynb)
+- 
 
 
 ## **ĐỒ ÁN CUỐI KÌ**
