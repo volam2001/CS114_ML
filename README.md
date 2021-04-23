@@ -14,7 +14,7 @@
 | :---: | --- | --- | --- | --- | --- | --- |
 | 1 | Trần Phan Nhật Kha | 19521655 | Nhóm trưởng | 19521655@gm.uit.edu.vn | [trankha1655](https://github.com/trankha1655) |
 | 2 | Trần Gia Nghĩa | 19521901 | Thành viên | 19521901@gm.uit.edu.vn | [SoulOfWindTGN](https://github.com/SoulOfWindTGN) |
-| 3 | Võ Tá Lâm | 19521901 | Thành viên | 19521744@gm.uit.edu.vn | [name](url) |
+| 3 | Võ Tá Lâm | 19521744 | Thành viên | 19521744@gm.uit.edu.vn | [name](url) |
 
 ## [Assignment](https://github.com/trankha1655/CS114_ML/tree/main/Assignments) 
 
